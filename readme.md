@@ -19,6 +19,13 @@ The Book Library is a simple web application that fetches book data from an API 
 - Implement infinite scrolling/pagination to fetch the next set of books.
 - Clicking on a book opens detailed information in a new tab.
 
+## Screenshots
+![ss](https://github.com/user-attachments/assets/17dbd944-b91d-405b-98c6-cf93aaa89e7d)
+
+## Deployment Link
+You can see the live version here :
+[Live](https://abhishek-book-library.netlify.app/)
+
 ## Installation
 
 1. Clone the repository:
